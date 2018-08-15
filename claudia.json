@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "tanvir-executor",
+    "name": "tanvir",
+    "region": "us-east-1"
+  },
+  "api": {
+    "id": "a8v12rwcpe",
+    "module": "bot007"
+  }
+}
